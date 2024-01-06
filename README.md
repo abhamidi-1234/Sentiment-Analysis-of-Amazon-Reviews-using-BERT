@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sentiment analysis is one of the most common applications in Natural Language processing. Sentiment analysis has become very important with online reviews and ratings guiding the purchases and decisions made by users on the internet and businesses can use these reviews for analyzing their strengths, weaknesses and overall market response to their services.
+Sentiment analysis stands as a prevalent application within the realm of Natural Language Processing. Its significance has grown considerably, particularly in light of online reviews and ratings, which play a pivotal role in shaping the decisions and purchases of internet users. Businesses, recognizing the impact of these reviews, can employ sentiment analysis to discern their strengths, weaknesses, and gain valuable insights into the overall market response to their services.
 
 ## Dataset
 
